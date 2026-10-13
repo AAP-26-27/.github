@@ -11,9 +11,11 @@ Pour demander en python à exécuter une commande shell dans un processus extern
 ```python
 import subprocess
 
+# Ici, il était écrit input("une chaine de ...") et la virgule en fin de ligne manquait
+
 resultat = subprocess.run(
     ["wc", "-c", "-w"],
-    input="une chaine de 5 mots et 38 caractères",  # Ici, il était écrit input("une chaine de ...") et la virgule en fin de ligne manquait
+    input="une chaine de 5 mots et 38 caractères",  
     capture_output=True,
     text=True
 )

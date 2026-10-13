@@ -1,3 +1,8 @@
+#TD1 
+
+## template du TD1
+- [https://github.com/AAP-26-27/template-td1](https://github.com/AAP-26-27/template-td1)
+
 ## ATTENTION : Erreur dans l'exercice 6 du TD1 
 
 Une erreur s'est glissée dans l'exercice 6 du TD1. 

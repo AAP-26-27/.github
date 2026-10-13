@@ -1,6 +1,6 @@
 ## ATTENTION : Erreur dans l'exercice 6 du TD1 
 
-**Une erreur s'est glissée dans l'exercice 6 du TD1. Merci à Nino Louvel de l'avoir signalée ! Voici le texte correct : **
+Une erreur s'est glissée dans l'exercice 6 du TD1. Merci à Nino Louvel de l'avoir signalée ! Voici le texte correct :
 
 ### Exécution d'un processus externe : module `subprocess`
 
@@ -24,7 +24,7 @@ print(resultat.stderr)
 print(resultat.returncode)
 ```
 
-**La description était également erronée, puisqu'elle décrivait la mauvaise commande. Voici le texte corrigé :**
+La description était également erronée, puisqu'elle décrivait la mauvaise commande. Voici le texte corrigé :
   
 Le premier élément de la liste correspond à la commande à exécuter (`wc`) et les éléments suivants à ses arguments (`-c`, `-w`). Le paramètre `capture_output=True` permet de récupérer les sorties standard et d'erreur du processus fils, tandis que `text=True` demande à Python de les représenter sous forme de chaînes de caractères et non pas d'octets. 
 Le paramètre `input` permet de fournir une chaîne de caractères dans l'entrée standard du processus. 

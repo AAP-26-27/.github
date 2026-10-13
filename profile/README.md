@@ -10,6 +10,7 @@
 ## ATTENTION : Erreur dans l'exercice 6 du TD1 
 
 Une erreur s'est glissée dans l'exercice 6 du TD1. 
+- Le template a été corrigé
 - Merci à Nino Louvel de l'avoir signalée !
 - Voici le texte correct :
 

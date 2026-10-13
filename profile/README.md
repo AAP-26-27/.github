@@ -14,7 +14,7 @@ import subprocess
 
 resultat = subprocess.run(
     ["wc", "-c", "-w"],
-    input="une chaine de 5 mots et 38 caractères",  # Ici, il était écrit input("une chaine de ...") et la virgule en fin de ligne manquait
+    input="une chaine de 8 mots et 38 caractères",  # Ici, il était écrit input("une chaine de ...") et la virgule en fin de ligne manquait
     capture_output=True,
     text=True
 )

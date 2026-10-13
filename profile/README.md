@@ -11,7 +11,7 @@ Pour demander en python à exécuter une commande shell dans un processus extern
 ```python
 import subprocess
 
-# Ici, il était écrit input("une chaine de ...") et la virgule en fin de ligne manquait
+# Ci-dessous, il était écrit input("une chaine de ...") et la virgule en fin de ligne manquait
 
 resultat = subprocess.run(
     ["wc", "-c", "-w"],

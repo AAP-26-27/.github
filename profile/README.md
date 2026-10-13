@@ -1,10 +1,10 @@
 # TD1 
 
-## template démo pour préparer le TD1
-- [https://github.com/AAP-26-27/template-td1]([https://github.com/AAP-26-27/template-td1](https://github.com/AAP-26-27/template-td1))
+## Template démo pour préparer le TD1
+- [https://github.com/AAP-26-27/template-td1](https://github.com/AAP-26-27/template-td1)
 
 
-## template du TD1
+## Template du TD1
 - [https://github.com/AAP-26-27/template-td1](https://github.com/AAP-26-27/template-td1)
 
 ## ATTENTION : Erreur dans l'exercice 6 du TD1 

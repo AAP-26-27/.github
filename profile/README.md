@@ -1,4 +1,4 @@
-## ATTENTION : TD1 
+## ATTENTION : Erreur dans l'exercice 6 du TD1 
 
 - Une erreur s'est glissée dans l'exercice 6 du TD1. Merci à Nino Louvel de l'avoir signalée ! 
 - Voici le texte correct : 

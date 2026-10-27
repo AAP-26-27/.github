@@ -11,4 +11,9 @@
 ## Template du TD1
 - [https://github.com/AAP-26-27/template-td1](https://github.com/AAP-26-27/template-td1)
 
+# Cours
+
+## Template démo présenté lors du cours
+- [https://github.com/AAP-26-27/demo-template](https://github.com/AAP-26-27/demo-template)
+
 

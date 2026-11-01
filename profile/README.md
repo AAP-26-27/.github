@@ -1,3 +1,8 @@
+# TD3
+
+## Template du TD3
+- [https://github.com/AAP-26-27/template-td3](https://github.com/AAP-26-27/template-td3)
+
 # TD2
 
 ## Template du TD2

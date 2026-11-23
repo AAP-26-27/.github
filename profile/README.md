@@ -1,3 +1,8 @@
+# TP6
+
+## Template du TP6
+- [https://github.com/AAP-26-27/template-tp6](https://github.com/AAP-26-27/template-tp6)
+
 # TD5
 
 ## Template du TD5
